@@ -1,17 +1,13 @@
 # ABAP Modernization – On-Premise
 
-Objectif :
-Préparer les développeurs ABAP classiques à ABAP Cloud
+Ce repository est conçu pour préparer les développeurs ABAP classiques à ABAP Cloud,
 en restant sur S/4HANA on-premise.
 
-Contenu :
-- Principes modernes ABAP
-- Modularisation et ABAP OO
-- Clean Core & bonnes pratiques
-- CDS préparatoires
-- RAP & OData concepts (offline)
-
-Chaque chapitre contient :
-- README pédagogique
-- Exemples de code
-- Exercices progressifs
+## Chapitres
+1. [Principes Modernes ABAP](01_modern_abap_principles/README.md)
+2. [ABAP OO et Patterns](02_abap_oo_and_patterns/README.md)
+3. [Clean Core / Bonnes pratiques](03_clean_core_guidelines/README.md)
+4. [Préparation CDS](04_cds_preparation/README.md)
+5. [Préparer RAP / OData](05_ramp_up_for_cloud/README.md)
+6. [Exercices](exercises/README.md)
+7. [Solutions](solutions/README.md)

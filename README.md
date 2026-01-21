@@ -5,5 +5,16 @@
 
 ## Étape 1 : Créer un répertoire
 ```abap
-mkdir mon_projet
-cd mon_projet
+" Old
+APPEND ls_structure TO lt_table.
+
+" New
+INSERT ls_structure INTO TABLE lt_table.
+
+" Old
+IF ld_number GE 10.
+ENDIF.
+
+" New
+IF ld_number >= 10.
+ENDIF.

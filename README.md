@@ -4,7 +4,7 @@
 # Git : Création d'un dépôt
 
 ## Étape 1 : Créer un répertoire
-```abap
+```java
 " Old
 APPEND ls_structure TO lt_table.
 
